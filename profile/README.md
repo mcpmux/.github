@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mcpmux.com/logos/McpMux-Logo.svg" alt="McpMux Logo" width="80" />
+  <img src="https://avatars.githubusercontent.com/u/260969069?s=200&v=4" alt="McpMux Logo" width="80" />
 </p>
 
 <h3 align="center">Configure MCP servers once. Connect every AI client.</h3>
